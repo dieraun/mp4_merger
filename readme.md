@@ -1,8 +1,5 @@
-```
 # mp4_merger.py 🎬
 > Windows 平台批量视频合并转码工具，基于 ffmpeg，版本 v4.5
-
-[![GitHub stars](https://img.shields.io/github/stars/你的用户名/mp4_merger.svg?style=social)](https://github.com/你的用户名/mp4_merger)
 
 一个面向本地大量视频文件的批量合并脚本，适合本地素材归档、录播片段拼接、分集视频批量合成。自动扫描文件夹，支持目录批量任务，硬件加速编码，自动容错降级。
 
@@ -87,4 +84,3 @@ options:
   -j, --jobs            并发任务数量
   --ffmpeg              指定ffmpeg.exe完整路径
   --ffprobe             指定ffprobe.exe完整路径
-```
